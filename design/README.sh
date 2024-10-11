@@ -57,3 +57,8 @@ H_variantCalling-bcftools.slurm.sh
 I_71mer-format.py
 
 
+###--------------- SCRIPT 8 ---------------###
+# SNPs submitted for tiling on the array 
+    # inludes flanking sequnces and scoring metrics
+8_Submitted-SNPs.txt
+
